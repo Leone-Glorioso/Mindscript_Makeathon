@@ -1,4 +1,4 @@
-# Hellas Direct AI Assistant
+# Insurance Company AI Assistant
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -17,7 +17,7 @@
 - [Evaluation Metrics](#evaluation-metrics)
 
 ## Introduction
-Hellas Direct AI Assistant is a Gradio-based chatbot prototype developed during the Makeathon Hackathon. Hosted in a Kaggle Notebook and powered by the Llama 3.1 model, it automates and streamlines customer interactions for emergency situations related to Accident Care (AC) and Road Assistance (RA).
+Insurance Company AI Assistant is a Gradio-based chatbot prototype developed during the Makeathon Hackathon. Hosted in a Kaggle Notebook and powered by the Llama 3.1 model, it automates and streamlines customer interactions for emergency situations related to Accident Care (AC) and Road Assistance (RA).
 
 ## Team
 - Konstantinos Leontiadis
